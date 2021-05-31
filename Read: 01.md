@@ -24,7 +24,7 @@ For more information, see [“Writing on GitHub”](https://docs.github.com/en/g
  
  # Video Summurization:
  
-  You as **a web developer** need to visit *GitHub* site, Especially when you looking for a job / want to share your work with others and make available for everyone.
+  You as **a web developer** need to visit [*GitHub*](http://www.github.com) site, Especially when you looking for a job / want to share your work with others and make available for everyone.
   
   ## GitHub Pags## 
   Github Pages let you have 
