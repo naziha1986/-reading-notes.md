@@ -24,23 +24,24 @@ As you can see from the image above, there is alot of differences between the tw
  5.  Success of others 
  
  I will give **an example** to explain how can any one Persevering, gumpting traps, and maintaining a growth mindset.
- When I’m faced with a challenging coding problem, I have a tendency to search on google on a particular aspect of it again and again until I conclude that it’s impossible or that I’m incapable of solving it. if i stuck there , i will be afixed mindest.but I walk through the problem once again,step by step, looking for new ways to think about it until I start to see another way forward.
+ When I’m faced with a challenging studing problem, I have a tendency to search on google on a particular aspect of it again and again until I conclude that it’s impossible or that I’m incapable of solving it. if i stuck there , i will be afixed mindest.but I walk through the problem once again,step by step, looking for new ways to think about it until I start to see another way forward.
  when i meet Obstacles ,i try to go away from any thing that can forced me to lose my focus , my solution is to stand up, put down whatever project is sucking the gumption out of me, walk away and drink some coffee, and return when iam feeling more inspired.such things help me make peace with myself, and ufeel more comfortable. 
  on the mornings when I get up and ride/ walk,my body feels better, my spirit is stronger. I’m proud of myself, and that goes a long, long way.
  I also find it useful to review each of my days and assess how I’ve done. As I mentioned at the beginning, I often judge my days based on my mood at the end. My worst days are when I haven’t managed to get things together, I’ve procrastinated and wasted time, and I find myself with very little to look back on positively.
- i cannot forget rhe role of My team who includes the smartest people I’ve ever worked with.Some open and frank conversations with my fellow  during peer reviews, one-on-ones, and even in casual hallway interactions helped me in this shift of mindset. Because that’s another amazing thing about the way our company works.
+ i cannot forget rhe role of My team who includes the smartest people I’ve ever worked with.Some open conversations with my fellow  during peer reviews, one-on-ones, and even in interactions helped me in this shift of mindset. Because that’s another amazing thing about the way you should work with.
  
  
- > Finally, i want to give advices for every one who read this:
+ > Finally, i want to give advices for myself and foe every one who read this:
  
  
  
- 
+  - be happy and thankful and positive
+  - be proud of yourself
   - walk/ride your car, drink some coffee, listen to the music and take some break *(espically when feel under prusure)*
  - ask your team or TAs,they can help you to find your way
- - be proud of yourself
- - be happy and thankful and positive
  - try to take every chance that can make you better even it is ahard one
+ - review each of your days and assess how you’ve done
+ - learn from worest day to have a better one
  
  > 
  > 
