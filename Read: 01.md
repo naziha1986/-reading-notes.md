@@ -14,8 +14,11 @@
 
 For more information, see [“GitHub help”](https://docs.github.com/en/github/writing-on-github) in the GitHub Help
 
+
 ## EXAMPLES:
+
 #------Hadings 1
+
 ##-----headings 2
 
  **  **---- BOLD
@@ -23,6 +26,9 @@ For more information, see [“GitHub help”](https://docs.github.com/en/github/
  '  '------- inline code
  
  ! [GitHub Logo] (/images/logo.png)---add image
+ 
+ 
+ 
  
  
  # Video Summarization:
@@ -41,7 +47,7 @@ For more information, see [“GitHub help”](https://docs.github.com/en/github/
   * add your project and work
   * share your link around
   
-  ## *for more information visit [github.com](https://pages.github.com)
+  ## *for more information visit [github.com](https://pages.github.com)*
   
   
   
