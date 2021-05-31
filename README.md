@@ -29,8 +29,24 @@ As you can see from the image above, there is alot of differences between the tw
  on the mornings when I get up and ride/ walk,my body feels better, my spirit is stronger. I’m proud of myself, and that goes a long, long way.
  I also find it useful to review each of my days and assess how I’ve done. As I mentioned at the beginning, I often judge my days based on my mood at the end. My worst days are when I haven’t managed to get things together, I’ve procrastinated and wasted time, and I find myself with very little to look back on positively.
  i cannot forget rhe role of My team who includes the smartest people I’ve ever worked with.Some open and frank conversations with my fellow  during peer reviews, one-on-ones, and even in casual hallway interactions helped me in this shift of mindset. Because that’s another amazing thing about the way our company works.
- > Finally,a growth mindest is acooooooool. 
+ 
+ 
+ > Finally, i want to give advices for every one who read this:
+ 
+ 
+ 
+ 
+  - walk/ride your car, drink some coffee, listen to the music and take some break *(espically when feel under prusure)*
+ - ask your team or TAs,they can help you to find your way
+ - be proud of yourself
+ - be happy and thankful and positive
+ - try to take every chance that can make you better even it is ahard one
+ 
+ > 
+ > 
+ > 
+ > a growth mindest is acooooooool. 
  
  
 
-
+ :+1:
