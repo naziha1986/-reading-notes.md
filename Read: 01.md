@@ -63,7 +63,7 @@ For more information, see [“GitHub help”](https://docs.github.com/en/github/
   
   ## Now you are ready to join us
   
-  ## *for more information visit [github.com](https://pages.github.com)*
+   *for more information visit [github.com](https://pages.github.com)*
   
   
   
