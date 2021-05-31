@@ -1,4 +1,4 @@
-# -reading-notes.md
+# reading-notes.md
 ## a growth mindset 
 ### Types of mind:
 
