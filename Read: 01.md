@@ -22,10 +22,22 @@ For more information, see [“Writing on GitHub”](https://docs.github.com/en/g
  
  ! [GitHub Logo] (/images/logo.png)---add image
  
- # Video Summurization:
+ # Video Summarization:
  
   You as **a web developer** need to visit [*GitHub*](http://www.github.com) site, Especially when you looking for a job / want to share your work with others and make available for everyone.
   
   ## GitHub Pags## 
-  Github Pages let you have 
+  Github Pages let you have a repository to show others your profil,your work ,projects.
+  
+  ### How it works?##
+ * make your website like me:
+  [Naziha qawasmeh](https://github.com/naziha1986)
+  * add your project and make it public/private
+  * share your link around
+  
+  ## *for more information visit [github.com](https://pages.github.com)
+  
+  
+  
+  
 
