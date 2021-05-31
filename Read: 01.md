@@ -31,9 +31,12 @@ For more information, see [“GitHub help”](https://docs.github.com/en/github/
  
  
  
- # Video Summarization:
+ # GitHub:
  
   Any **a web developer** need to visit [*GitHub*](http://www.github.com) site, Especially when he/she looking for a job or want to share his/her work with others and make it available for everyone.
+  
+  *GitHub: is a plat form online ( like acloud)we use it to share, save and to have a backup of our project and use it in future.*
+![github](https://user-images.githubusercontent.com/85103746/120229994-0febff80-c257-11eb-95e5-2abd3f8d9bc2.png)
   
   ## GitHub Pages
   Github Pages let you have a repository to show others your profil,your work ,and projects.
