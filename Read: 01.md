@@ -4,12 +4,13 @@
 
 *Markdown* is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber and Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form. Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files. [wikipedia](https://en.wikipedia.org/wiki/Markdown)
 
-*Markdown*is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. *Markdown is just regular text with a few non-alphabetic characters thrown in.
+*Markdown*is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown.
+*Markdown is just regular text with a few non-alphabetic characters thrown in.it is a better way to write **HTML** without all the complexities and ugliness that usually accompanies it.
 
 - In Markdown we use symbols like # or * ...etc.
 - The extension of Markdown is: .md / .markdown
-- use Markdown most places around GitHub:Gists,Comments in Issues and Pull Requests
-- use symbols not tags
+- Markdown uses in most places around GitHub:Gists,Comments in Issues and Pull Requests
+- we use symbols not tags
 - it is not WYSIWYG
 
 For more information, see [“GitHub help”](https://docs.github.com/en/github/writing-on-github) in the GitHub Help
@@ -36,6 +37,7 @@ For more information, see [“GitHub help”](https://docs.github.com/en/github/
   Any **a web developer** need to visit [*GitHub*](http://www.github.com) site, Especially when he/she looking for a job or want to share his/her work with others and make it available for everyone.
   
   *GitHub: is a plat form online ( like acloud)we use it to share, save and to have a backup of our project and use it in future.*
+  
 ![github](https://user-images.githubusercontent.com/85103746/120229994-0febff80-c257-11eb-95e5-2abd3f8d9bc2.png)
   
   ## GitHub Pages:
@@ -49,9 +51,10 @@ For more information, see [“GitHub help”](https://docs.github.com/en/github/
   
   * you shoud add a repository.
   * add your project and work.
+  * add a beautiful theme.
   * share your link around.
-  * add a beautiful theam
-  ## Now you are ready to join with us
+  
+  ## Now you are ready to join us
   
   ## *for more information visit [github.com](https://pages.github.com)*
   
