@@ -38,8 +38,9 @@ For more information, see [“GitHub help”](https://docs.github.com/en/github/
   *GitHub: is a plat form online ( like acloud)we use it to share, save and to have a backup of our project and use it in future.*
 ![github](https://user-images.githubusercontent.com/85103746/120229994-0febff80-c257-11eb-95e5-2abd3f8d9bc2.png)
   
-  ## GitHub Pages
-  Github Pages let you have a repository to show others your profil,your work ,and projects.it give us a puplic share link. more over, you can add abeautifull theme to your work.
+  ## GitHub Pages:
+  
+  Github Pages let you have a repository to show others your profile,your work ,and your projects.it give you a puplic share link. more over, you can apply abeautifull theme to your work and publish it.
   
   ### How it works? :+1:
   
