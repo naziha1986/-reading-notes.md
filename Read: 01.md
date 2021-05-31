@@ -40,7 +40,7 @@ For more information, see [“GitHub help”](https://docs.github.com/en/github/
   
   ## GitHub Pages:
   
-  Github Pages let you have a repository to show others your profile,your work ,and your projects.it give you a puplic share link. more over, you can apply abeautifull theme to your work and publish it.
+  Github Pages let you have a repository to show others your profile,your work ,and your projects.it give you a puplic share link. more over, you can apply abeautiful theme to your work and publish it.
   
   ### How it works? :+1:
   
@@ -50,6 +50,7 @@ For more information, see [“GitHub help”](https://docs.github.com/en/github/
   * you shoud add a repository.
   * add your project and work.
   * share your link around.
+  * add a beautiful theam
   ## Now you are ready to join with us
   
   ## *for more information visit [github.com](https://pages.github.com)*
