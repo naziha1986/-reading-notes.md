@@ -39,16 +39,17 @@ For more information, see [“GitHub help”](https://docs.github.com/en/github/
 ![github](https://user-images.githubusercontent.com/85103746/120229994-0febff80-c257-11eb-95e5-2abd3f8d9bc2.png)
   
   ## GitHub Pages
-  Github Pages let you have a repository to show others your profil,your work ,and projects.
+  Github Pages let you have a repository to show others your profil,your work ,and projects.it give us a puplic share link. more over, you can add abeautifull theme to your work.
   
   ### How it works? :+1:
   
- * you should make your website like me:
+ * you should make your own account on GitHUB website, for example:
   [Naziha qawasmeh](https://github.com/naziha1986)
   
-  * have a repository
-  * add your project and work
-  * share your link around
+  * you shoud add a repository.
+  * add your project and work.
+  * share your link around.
+  ## Now you are ready to join with us
   
   ## *for more information visit [github.com](https://pages.github.com)*
   
