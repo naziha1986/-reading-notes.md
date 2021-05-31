@@ -29,5 +29,4 @@ As you can see from the image above, there is alot of differences between the tw
  on the mornings when I get up and ride( walk),my body feels better, my spirit is stronger. I’m proud of myself, and that goes a long, long way.
  I also find it useful to review each of my days and assess how I’ve done. As I mentioned at the beginning, I often judge my days based on my mood at the end. My worst days are when I haven’t managed to get things together, I’ve procrastinated and wasted time, and I find myself with very little to look back on positively.
  i cannot forget rhe role of My team who includes the smartest people I’ve ever worked with.Some open and frank conversations with my fellow  during peer reviews, one-on-ones, and even in casual hallway interactions helped me in this shift of mindset. Because that’s another amazing thing about the way our company works.
-
-**a growth mindest is acool When I’m faced with a challenging coding problem, I have a tendency to work over one particular aspect of it again and again until I conclude that it’s impossible or that I’m incapable ofthing.**it 
+ > Finally,a growth mindest is acooooooool. 
