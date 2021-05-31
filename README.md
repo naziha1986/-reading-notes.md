@@ -14,6 +14,13 @@ it is a concept that makes you beleive that you are more *successful,productive 
 
 ![difference between growth mindest & fixed mindest](https://i2.wp.com/atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png?resize=800%2C1000&ssl=1)
 
+As you can see from the image above, there is alot of differences between the two concepts. by understanding both of them, we can get better at catching ourselves in those moments when our brains revert to a fixed mindset and pull ourselves back into growth-iness and ultimately be more successful.
 
+*Perseverance, gumption traps, and maintaining a growth mindset:*
+ 1. Challenges
+ 2.  Obstacles
+ 3.  Effort
+ 4.  Criticism
+ 5.  Success of others
 
 **a growth mindest is acool thing.**
