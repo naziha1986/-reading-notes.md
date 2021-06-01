@@ -17,3 +17,4 @@ Iam so exciting for this journey.
 | ----------    | ----------- |
 | read: 01       | [link](https://replit.com/@naziha1986/reading-notesmd#Read:01.md) |
 | lab:01         |[link](https://replit.com/@naziha1986/reading-notesmd#lab01.md)        |
+|Read: 02|[link](https://replit.com/@naziha1986/reading-notesmd#Read:02.md)
