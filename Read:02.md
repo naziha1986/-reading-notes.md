@@ -2,33 +2,38 @@
 ## *What is Git?
 
 
-**Git**: is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
-It is a version control system (VCS).
+_**Git**_: is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+Git is a version control system (VCS), it is in our locall machine,see what changes are made and they are made.
+ ## *What is Git Benefits?
 
-1. ### snapshot:
+
+1. #### snapshot:
  it saves any changes you made and make it like *a screen shots*.
 
-2. ### Local Operations:
+2. #### Local Operations:
 Git depends on local operations because it contains most necessary information.
 
-3. ### Tracking Changes:
+3. #### Tracking Changes:
 Git allows you to track file versions,to show a changes history.
 
-4. ### Loss of Data:
-Git protects your data from being lost,it makes it extremely difficult for irreversible damage to files.
+4. #### Risk &Loss of Data:
+Since files are synchronized with remot repository,Git protects your data from being lost.
 
-5. ### States:
+5. #### States:
 Files in Git can reside in three main states: _*committed, modified and staged*_
 
-## *Commands:
+6. #### Collaboration:
+Git enables collaboration between multiple users (developers) on one project.
 
-There is a *lot of Commands* that we can use in Git, for example:
-* cd = (change directory)
-* pwd =(print working directory)
-*ls =(list me the list)
-* ls-li=(list all)
-* clear =(clear every thing)
-* cd.. =(get back to previous)
+## *Terminal Commands:
+
+There is a *lot of terminal Commands* that we can use , for example:
+* cd = (change directory). it lets me any open directory.
+* pwd =(print working directory).it is told me where am i.
+*ls =(list me the the directories/foldersfrom inside current Directory that are not hidden). 
+* ls-li=(list all files even hidden one)
+* clear =(clear every thing in the terminal)
+* cd.. =(get back to previous directory)
 * mk dir = (creat another directory) ...etc
 
 ## *The components of The local Git repository :
@@ -41,27 +46,22 @@ There is a *lot of Commands* that we can use in Git, for example:
 3.Head: Points to the most recent commit.
 
 
-### * Commands in local machine /terminal:
-We can use many commands in local machine, for example:
+### * Git Commands:
+We can use many commands in git, for example:
 
-* **git remote command** :is one piece of the broader system which is responsible for syncing changes. Records registered through the git remote command are used in conjunction with the git fetch , git push , and git pull commands. by running this command, you can view the short names, such as “origin,” of all specified remote handles.
+* **Main Commands ACP Commands**
+
+1. git  add .:t to set file as *staged*.
+2. git commit -m" note": to take a *snapshot* of staged file.
+3.  git push origin main .: to push/send new snapshot of changes to remote repo in GitHub.
+
+* ** git clone (the link of repo):** to download repo on local machine.
+
+* ** git remote -v** : it responsible for syncing changes. Records registered through the git remote command are used in conjunction with the git fetch , git push , and git pull commands. by running this command, you can view the short names, such as “origin,” of all specified remote handles.
 you can view all the remote URLs next to their corresponding short names.
 
- We write the command like this in the terminal:  **git remote -v**
 
-*when i applied it in my replit, it seemed like that:*
+* **git status**: to see the changes made & give an explanation about what happened.
 
 
-~/reading-notesmd$ git remote -v
-origin   https://github.com/naziha1986/reading-notes.md (fetch)
-origin  
-
-https://github.com/naziha1986/reading-notes.md (push)
-
-* **ACP Commands**
-
-1. git  add .
-2. git commit -m" note" 
-3.  git push origin main .
-
->visit [Git](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/) for more inforation.
+>visit [Git](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/) for more information.
