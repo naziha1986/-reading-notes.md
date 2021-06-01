@@ -19,4 +19,4 @@ origin  https://github.com/naziha1986/reading-notes.md (fetch)
 origin  https://github.com/naziha1986/reading-notes.md (push)
 ~/reading-notesmd$ 
 
- visit [Git](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+>visit [Git](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
