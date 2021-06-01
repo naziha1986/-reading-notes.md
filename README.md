@@ -1,8 +1,8 @@
 
-# Introdution:
+# Introdution: 
 
 My name is **Naziha Qawasmeh**.iam from Joradn. Iam 34 years old.I graduated from Yarmouk Universiy. 
-By the way, Iam Accountant.i got a Master degree in 2020.
+By the way, Iam an Accountant.i got a Master degree in 2020.
 
 I joined to your team to become a web developer and to have the ability to design web pages.
 
@@ -13,7 +13,7 @@ Iam so exciting for this journey.
 
 # Table of contents:
 
-| content       | link |
+|  content       | link |
 | ----------    | ----------- |
-| read:01       | [link](https://replit.com/@naziha1986/reading-notesmd#Read: 01.md) |
+| read: 01       | [link](https://replit.com/@naziha1986/reading-notesmd#Read:01.md) |
 | lab:01         |[link](https://replit.com/@naziha1986/reading-notesmd#lab01.md)        |
