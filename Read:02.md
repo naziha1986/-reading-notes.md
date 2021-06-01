@@ -1,5 +1,5 @@
 # Git
-## What is Git?
+## *What is Git?
 
 
 **Git**: is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
@@ -17,10 +17,16 @@ Git allows you to track file versions,to show a changes history.
 4. ### Loss of Data:
 Git protects your data from being lost,it makes it extremely difficult for irreversible damage to files.
 
+5. ### States:
+Files in Git can reside in three main states: _*committed, modified and staged*_
 
+## *Commands:
 
-
-There is a *lot of Commands* that we can use 
+There is a *lot of Commands* that we can use in Git, for example:
+* cd = (change directory)
+* pwd =(print working directory)
+*ls =(list me the list)
+ls-li=(list all)
 
 * **git remote command** :is one piece of the broader system which is responsible for syncing changes. Records registered through the git remote command are used in conjunction with the git fetch , git push , and git pull commands. by running this command, you can view the short names, such as “origin,” of all specified remote handles.
 you can view all the remote URLs next to their corresponding short names.
