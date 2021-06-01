@@ -3,8 +3,24 @@
 
 
 **Git**: is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+It is a version control system (VCS).
 
-There is a *lot of Commands* that we can use in Git.*for example:*
+1. ### snapshot:
+ it saves any changes you made and make it like *a screen shots*.
+
+2. ### Local Operations:
+Git depends on local operations because it contains most necessary information.
+
+3. ### Tracking Changes:
+Git allows you to track file versions,to show a changes history.
+
+4. ### Loss of Data:
+Git protects your data from being lost,it makes it extremely difficult for irreversible damage to files.
+
+
+
+
+There is a *lot of Commands* that we can use 
 
 * **git remote command** :is one piece of the broader system which is responsible for syncing changes. Records registered through the git remote command are used in conjunction with the git fetch , git push , and git pull commands. by running this command, you can view the short names, such as “origin,” of all specified remote handles.
 you can view all the remote URLs next to their corresponding short names.
