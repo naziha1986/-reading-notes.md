@@ -2,8 +2,7 @@
 ## *What is Git?
 
 
-_**Git**_: is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
-Git is a version control system (VCS), it is in our locall machine,see what changes are made and they are made.
+_**Git**_: is a free and open source distributed version control system (VCS) designed to handle everything from small to very large projects with speed and efficiency. it is in our *locall machine*,see what changes are made and why they are made.
  ## *What is Git Benefits?
 
 
@@ -49,19 +48,19 @@ There is a *lot of terminal Commands* that we can use , for example:
 ### * Git Commands:
 We can use many commands in git, for example:
 
-* **Main Commands ACP Commands**
+a.  **Main Commands ACP Commands**
 
 1. git  add .:t to set file as *staged*.
 2. git commit -m" note": to take a *snapshot* of staged file.
 3.  git push origin main .: to push/send new snapshot of changes to remote repo in GitHub.
 
-* ** git clone (the link of repo):** to download repo on local machine.
+b.  ** git clone (the link of repo):** to download repo on local machine.
 
-* ** git remote -v** : it responsible for syncing changes. Records registered through the git remote command are used in conjunction with the git fetch , git push , and git pull commands. by running this command, you can view the short names, such as “origin,” of all specified remote handles.
+c. ** git remote -v** : it responsible for syncing changes. Records registered through the git remote command are used in conjunction with the git fetch , git push , and git pull commands. by running this command, you can view the short names, such as “origin,” of all specified remote handles.
 you can view all the remote URLs next to their corresponding short names.
 
 
-* **git status**: to see the changes made & give an explanation about what happened.
+d. **git status**: to see the changes made & give an explanation about what happened.
 
 
 >visit [Git](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/) for more information.
