@@ -1,12 +1,12 @@
 
 # Introdution: 
+ _**Hi every one **_
 
 My name is **Naziha Qawasmeh**.iam from Joradn. Iam 34 years old.I graduated from Yarmouk Universiy. 
 By the way, Iam an Accountant.i got a Master degree in 2020.
+I joined to your team to become a web developer and to have the ability to design web pages that help me in my work- when i get one- and improve accounting field in general.
 
-I joined to your team to become a web developer and to have the ability to design web pages.
-
-Iam so exciting for this journey.
+Iam so exciting for this journey, i feel it will be a great one.
 
 *nice to meet you all*.
 
