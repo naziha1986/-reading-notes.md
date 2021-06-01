@@ -7,3 +7,7 @@ i joined to your team to become a web developer and to have the ability to desig
 iam so exciting for this journey.
 *nice to meet you all*.
 
+| content       | link |
+| ----------    | ----------- |
+| read:01        |[link](https://replit.com/@naziha1986/reading-notesmd#Read: 01.md)
+| lab:01          |[link](https://replit.com/@naziha1986/reading-notesmd#lab01.md)        |
