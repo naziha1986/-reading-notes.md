@@ -58,10 +58,10 @@ origin
 
 https://github.com/naziha1986/reading-notes.md (push)
 
-## ACP Commands:
+* **ACP Commands**
 
-* **git  add .**
-* ** git commit -m" note" **
-* ** git push origin main **
+1. git  add .
+2. git commit -m" note" 
+3.  git push origin main .
 
 >visit [Git](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/) for more inforation.
