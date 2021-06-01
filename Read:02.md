@@ -26,7 +26,20 @@ There is a *lot of Commands* that we can use in Git, for example:
 * cd = (change directory)
 * pwd =(print working directory)
 *ls =(list me the list)
-ls-li=(list all)
+* ls-li=(list all)
+* clear =(clear every thing)
+* cd.. =(get back to previous)
+* mk dir = (creat another directory) ...etc
+
+## *The components of The local Git repository :
+**-There are 3 components:**
+1.Working Directory: The actual files reside here.
+
+2.Index: The area used for staging
+
+3.Head: Points to the most recent commit.
+
+### *Seeing Your Remotes:
 
 * **git remote command** :is one piece of the broader system which is responsible for syncing changes. Records registered through the git remote command are used in conjunction with the git fetch , git push , and git pull commands. by running this command, you can view the short names, such as “origin,” of all specified remote handles.
 you can view all the remote URLs next to their corresponding short names.
