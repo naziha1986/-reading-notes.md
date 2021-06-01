@@ -40,7 +40,9 @@ There is a *lot of Commands* that we can use in Git, for example:
 
 3.Head: Points to the most recent commit.
 
-### *Seeing Your Remotes:
+
+### * Commands in local machine /terminal:
+We can use many commands in local machine, for example:
 
 * **git remote command** :is one piece of the broader system which is responsible for syncing changes. Records registered through the git remote command are used in conjunction with the git fetch , git push , and git pull commands. by running this command, you can view the short names, such as “origin,” of all specified remote handles.
 you can view all the remote URLs next to their corresponding short names.
@@ -51,12 +53,15 @@ you can view all the remote URLs next to their corresponding short names.
 
 
 ~/reading-notesmd$ git remote -v
-origin  https://github.com/naziha1986/reading-notes.md (fetch)
+origin   https://github.com/naziha1986/reading-notes.md (fetch)
 origin  
 
 https://github.com/naziha1986/reading-notes.md (push)
 
-~/reading-notesmd$ 
+## ACP Commands:
 
+* **git  add .**
+* ** git commit -m" note" **
+* ** git push origin main **
 
->visit [Git](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+>visit [Git](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/) for more inforation.
