@@ -33,6 +33,7 @@ There is a *lot of Commands* that we can use in Git, for example:
 
 ## *The components of The local Git repository :
 **-There are 3 components:**
+
 1.Working Directory: The actual files reside here.
 
 2.Index: The area used for staging
