@@ -1,7 +1,6 @@
 # Git
 ## *What is Git?
 
-
 _**Git**_: is a free and open source distributed version control system (VCS) designed to handle everything from small to very large projects with speed and efficiency. it is in our *locall machine*,it see what changes are made and why they are made.
  ## *What is Git Benefits?
 we can summaraize some of git Benefits like this: 
@@ -50,9 +49,9 @@ We can use many commands in git, for example:
 
 a.  **Main Commands ACP Commands**
 
-1. git  add .:t to set file as *staged*.
-2. git commit -m" note": to take a *snapshot* of staged file.
-3.  git push origin main .: to push/send new snapshot of changes to remote repo in GitHub.
+1. git  **A**dd .:t to set file as *staged*.
+2. git **C**ommit -m" note": to take a *snapshot* of staged file.
+3.  git **P**ush origin main .: to push/send new snapshot of changes to remote repo in GitHub.
 
 b.  ** git clone (the link of repo):** to download repo on local machine.
 
