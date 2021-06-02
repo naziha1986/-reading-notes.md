@@ -1,4 +1,5 @@
 # How To Create Your First Wireframe?
+<<<<<<< HEAD
 
 ## What is a wireframe, and why do UX designers use them?
 
@@ -12,3 +13,9 @@ it is about enhancing the experience that people have while interacting with you
 
 
 >visi [career foundry](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/) to more information.
+=======
+# How To Create Your First Wireframe?
+## What is a wireframe, and why do UX designers use them?
+*Wireframing*: is a practice used by UX designers which allows them to define and plan the information hierarchy of their design for a website, app, or product. it focuses on how the designer / client wants the user to process information on a site, based on the user research already performed by the UX design team.
+to 
+>>>>>>> d2a9c73d6cec90122642e9075bbd6c914942f297
