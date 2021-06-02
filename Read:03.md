@@ -33,7 +33,7 @@ HTML:*(Hyper text markup language)*we use it to structure our web pages & add co
 
 2. The closing tag: same as begining but it also includes a forward slash before the element name. 
 3. The content: the content  is just text. 
-4. The element: The opening tag, the closing tag, and the content together comprise the element.Elements can also have attributes>
+4. The element: The opening tag, the closing tag, and the content together comprise the element.Elements can also have attributes.
 
 An attribute should always have the following:
 
@@ -41,8 +41,8 @@ An attribute should always have the following:
 * The attribute name followed by an equal sign.
 * The attribute value wrapped by opening and closing quotation marks.
 ## *types of Elements:
-1. Nesting elements: it is putting elements inside other elements
-2. Empty elements:any element without content(there is no closing tag),i.e: <img>
+1. Nesting elements: it is putting elements inside other elements.
+2. Empty elements:any element without content(there is no closing tag),i.e: img
 
 ## *Semantics:
 Semantics give meaning to a part or apiece of code.such as:"what effect does running here? or "what he purpose /goal does HTML elements have?"
