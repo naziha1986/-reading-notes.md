@@ -13,6 +13,8 @@ it is about enhancing the experience that people have while interacting with you
 
 
 >visit [career foundry](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/) to more information.
+
+
 # What is HTML?
 HTML:*(Hyper text markup language)*we use it to structure our web pages & add content and information to it.
 
@@ -23,8 +25,9 @@ HTML:*(Hyper text markup language)*we use it to structure our web pages & add co
 ![HTML!](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-small.png)
 
 
-The opening tag: This consists of the name of the element  wrapped in opening and closing angle brackets. 
-The closing tag: same as  it includes a forward slash before the element name. This states where the element ends — in this case where the paragraph ends. Failing to add a closing tag is one of the standard beginner errors and can lead to strange results.
-The content: This is the content of the element, which in this case, is just text.
-The element: The opening tag, the closing tag, and the content together comprise the element.
+1. The opening tag: This consists of the name of the element  wrapped in opening and closing angle brackets. 
+
+2. The closing tag: same as begining but it also includes a forward slash before the element name. 
+3. The content: the content  is just text. 
+
 
