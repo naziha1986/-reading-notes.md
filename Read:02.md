@@ -2,9 +2,9 @@
 ## *What is Git?
 
 
-_**Git**_: is a free and open source distributed version control system (VCS) designed to handle everything from small to very large projects with speed and efficiency. it is in our *locall machine*,see what changes are made and why they are made.
+_**Git**_: is a free and open source distributed version control system (VCS) designed to handle everything from small to very large projects with speed and efficiency. it is in our *locall machine*,it see what changes are made and why they are made.
  ## *What is Git Benefits?
-
+we can summaraize some of git Benefits like this: 
 
 1. #### snapshot:
  it saves any changes you made and make it like *a screen shots*.
