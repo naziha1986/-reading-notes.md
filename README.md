@@ -19,6 +19,9 @@ Iam so exciting for this journey, i feel it will be fun and great one.
 | ----------    | ----------- |
 | Read: 01       | [link](https://replit.com/@naziha1986/reading-notesmd#Read:01.md) |
 | lab:01         |[link](https://replit.com/@naziha1986/reading-notesmd#lab01.md)        |
-|Read: 02|[link](https://replit.com/@naziha1986/reading-notesmd#Read:02.md)
-
+|Read:02|[link](https://replit.com/@naziha1986/reading-notesmd#Read:02.md)
+|Read:03 | [link](https://replit.com/@naziha1986/reading-notesmd#Read:03.md)|
+|Read:04| [link](https://replit.com/@naziha1986/reading-notesmd#Read:04.md)|
+|Read:06|[link](https://replit.com/@naziha1986/reading-notesmd#Read:06.md)
+|
 
