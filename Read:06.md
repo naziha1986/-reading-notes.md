@@ -1,5 +1,5 @@
 # *JavaScript(JS):
-JS is a programming language (scripting language for Web pages) .JavaScript frameworks are an essential for modern **front-end web development**, it provides developers with proven tools for building scalable, interactive web applications.
+JS: is a programming language (scripting language for Web pages) .JavaScript frameworks are an essential for modern **front-end web development**, it provides developers with proven tools for building scalable, interactive web applications.
 
 **Java Script** runs on the client side of the web, which can be used to design / program how the web pages behave on the occurrence of an event. JavaScript is an easy to learn and also powerful scripting language, widely used for controlling web page behavior.
 
