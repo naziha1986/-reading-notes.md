@@ -5,13 +5,15 @@
 
 _***CSS**_: *(Cascading Style Sheet)
 *it is rule-based language for specifing how documents are presented to users.it makes your web page more elegant and beautiful.
-
-* in css we don't use tags.
+* it's a declarative synatx for defining the presentation of a web pages. 
+* we don't use tags in CSS.
 
 ![css2](css2.png)
 
 * we can make changes,such as:lists,tables, color,font,links....etc>
 * we can add background and border.
+* *responsiveeness*: adapting the interface to the user's screen size.
+
 * it developed by group within W3schools. 
 
 >For more information
@@ -19,13 +21,17 @@ _***CSS**_: *(Cascading Style Sheet)
 
 
  ## *Ways to insert CSS:
-1. External CSS: to change the look of an entire website by changing just one file.
+1. #### External CSS: 
+to change the look of an entire website by changing just one file.
 (link element inside the section)
 
-2. internal CSS: to change the look of one singl HTML pages with a unique style.
+2. #### internal CSS: 
+to change the look of one singl HTML pages with a unique style.
+(put a _**style**_ tag inside the _**head**_ tag)
 
-3. inline CSS: to apply a unique style for a single element.
-
+3. #### inline CSS:
+ to apply a unique style for a single element.
+(using _**style attribute**_ inside the html tages).
 
 ![3 types of css](css3.jpg)
 
