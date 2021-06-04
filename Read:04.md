@@ -3,7 +3,7 @@
 
 ![css1](css.png)
 
-CSS: *(Cascading Style Sheet)
+_***CSS**_: *(Cascading Style Sheet)
 *it is rule-based language for specifing how documents are presented to users.it makes your web page more elegant and beautiful.
 
 * in css we don't use tags.
@@ -15,15 +15,19 @@ CSS: *(Cascading Style Sheet)
 * it developed by group within W3schools. 
 
 >For more information
- visit [developer mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS) .
+ visit [developer mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS) 
 
-## *Ways to insert CSS:
+
+ ## *Ways to insert CSS:
 1. External CSS: to change the look of an entire website by changing just one file.
 (link element inside the section)
 
 2. internal CSS: to change the look of one singl HTML pages with a unique style.
 
 3. inline CSS: to apply a unique style for a single element.
+
+
+![3 types of css](css3.jpg)
 
 >for more information visit [w3schools](https://www.w3schools.com/css/css_howto.asp).
 
