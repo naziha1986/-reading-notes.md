@@ -1,19 +1,25 @@
 
 # What is CSS?
+
 ![css1](css.png)
+
 CSS: *(Cascading Style Sheet)
 *it is rule-based language for specifing how documents are presented to users.it makes your web page more elegant and beautiful.
 
 * in css we don't use tags.
+
 ![css2](css2.png)
+
 * we can make changes,such as:lists,tables, color,font,links....etc>
 * we can add background and border.
-* it developed by group within W3schools. For more information
+* it developed by group within W3schools. 
+
+>For more information
  visit [developer mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS) .
 
 ## *Ways to insert CSS:
 1. External CSS: to change the look of an entire website by changing just one file.
-(link element inside the section0
+(link element inside the section)
 
 2. internal CSS: to change the look of one singl HTML pages with a unique style.
 
