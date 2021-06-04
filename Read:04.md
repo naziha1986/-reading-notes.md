@@ -8,16 +8,23 @@ _***CSS**_: *(Cascading Style Sheet)
 * it's a declarative synatx for defining the presentation of a web pages. 
 * we don't use tags in CSS.
 
-![css2](css2.png)
+
 
 * we can make changes,such as:lists,tables, color,font,links....etc>
 * we can add background and border.
 * *responsiveeness*: adapting the interface to the user's screen size.
 
-* it developed by group within W3schools. 
+* it developed by group within W3schools.
+ 
+![html css js](lego.jpg)
 
->For more information
- visit [developer mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS) 
+
+
+### CSS syntax:
+![css2](css2.png)
+
+ ![css4](css4.png)
+
 
 
  ## *Ways to insert CSS:
@@ -35,8 +42,6 @@ to change the look of one singl HTML pages with a unique style.
 
 ![3 types of css](css3.jpg)
 
->for more information visit [w3schools](https://www.w3schools.com/css/css_howto.asp).
-
 
 ### *CSS color Property:
 the color property specifies the color of text.
@@ -44,4 +49,5 @@ the color property specifies the color of text.
 * inherit: Inherits this property from its parent element.
 for example: body {color: #92a8d1;}
 
->visit [w3schools](https://www.w3schools.com/cssref/pr_text_color.asp) for more information.
+>visit [w3schools](https://www.w3schools.com/cssref/pr_text_color.asp)
+ or  [developer mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS) .
