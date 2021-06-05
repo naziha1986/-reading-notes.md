@@ -107,3 +107,5 @@ When JavaScript reaches a `return` statement, the function will **stop executing
 1. You can reuse code: Define the code once, and use it many times.
 
 2. You can use the same code many times with different arguments, to produce different results.
+
+> For more information visit [w3schools](https://www.w3schools.com/js/js_functions.asp).
