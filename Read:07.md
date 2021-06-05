@@ -91,5 +91,19 @@ This loop will print numbers 0-9, will stop when condition is met (i = 10)
 
 > For more information visit [developer.mozilla](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow).
 
+## *Function Invocation:
 
 
+**The code inside the function will execute when "something" invokes (calls) the function:**
+
+* When an event occurs (when a user clicks a button).
+* When it is invoked (called) from JavaScript code.
+* Automatically (self invoked).
+
+-Function Return:
+When JavaScript reaches a `return` statement, the function will **stop executing**.
+
+### Why Functions?
+1. You can reuse code: Define the code once, and use it many times.
+
+2. You can use the same code many times with different arguments, to produce different results.
