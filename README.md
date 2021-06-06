@@ -17,14 +17,14 @@ _**Iam so exciting for this journey, i feel it will be fun and great one.**_
 
 |  content       | link |
 | ----------    | ----------- |
-| Read: 01       | [link](https://replit.com/@naziha1986/reading-notesmd#Read:01.md) |
-| lab:01         |[link](https://replit.com/@naziha1986/reading-notesmd#lab01.md)        |
-|Read:02|[link](https://replit.com/@naziha1986/reading-notesmd#Read:02.md)
-|Read:03 | [link](https://replit.com/@naziha1986/reading-notesmd#Read:03.md)|
-|Read:04| [link](https://replit.com/@naziha1986/reading-notesmd#Read:04.md)|
-|Read:06|[link](https://replit.com/@naziha1986/reading-notesmd#Read:06.md)
-|Read:07|[link](https://replit.com/@naziha1986/reading-notesmd#Read:07.md)
-|Read:08|[link](https://replit.com/@naziha1986/reading-notesmd-1#README.md)
+| Read: 01       | [link](https://naziha-1986.github.io/reading-notes.md/Read:01) |
+| lab:01         |[link](https://naziha-1986.github.io/reading-notes.md/Lab:01b)        |
+|Read:02|[link](https://naziha-1986.github.io/reading-notes.md/Read:02)
+|Read:03 | [link](https://naziha-1986.github.io/reading-notes.md/Read:03)|
+|Read:04| [link](https://naziha-1986.github.io/reading-notes.md/Read:04)|
+|Read:06|[link](https://naziha-1986.github.io/reading-notes.md/Read:06)
+|Read:07|[link](https://naziha-1986.github.io/reading-notes.md/Read:07)
+|Read:08|[link](https://naziha-1986.github.io/reading-notes.md/Read:08)
 
 
 
